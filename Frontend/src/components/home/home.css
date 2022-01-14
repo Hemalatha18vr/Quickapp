@@ -1,0 +1,16 @@
+.holder{
+    display: flex;
+    height: 30vh;
+    justify-content: space-around;
+}
+   
+.heady{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #f4f2ff;
+    height: 10vh;
+    align-items: center;
+}
+#searchname{
+    width: 25vw;
+}

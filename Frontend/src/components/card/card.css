@@ -1,0 +1,17 @@
+.box{
+    border: 1px solid gray;
+    width: 25%;
+}
+.inline{
+    display: flex;
+    justify-content: space-around;
+    padding: 4vh;
+}
+.price{
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+.cardlogo{
+    height: 12vh;
+}

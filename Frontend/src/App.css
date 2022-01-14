@@ -1,0 +1,9 @@
+.logo{
+  height: 12vh;
+}
+.NavBar{
+ background-color: #35496b;
+ display: flex;
+ justify-content: space-evenly;
+ padding-left: 1vw;
+}
